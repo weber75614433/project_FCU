@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSwitchStyle" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:switchMinWidth">100dp</item>
+        <item name="android:switchPadding">0dp</item>
+        <item name="android:thumbTextPadding">0dp</item>
+        <item name="android:textSize">0sp</item>
+        <item name="android:scaleX">1.5</item>
+        <item name="android:scaleY">1.5</item>
+        <item name="trackTint">@color/white</item>
+
+    </style>
+    
+
+    
+</resources>
